@@ -4,16 +4,15 @@ I build tools, services, and projects across web and backend systems.
 My current focus is iOS sideloading.
 
 ## Current Project
-- NexSideloading: https://sideloading.net
+- NexSideloading: https://sideloading.net  
   A home for all your iOS sideloading needs!
 
 ## Skills
 - HTML/CSS/JS
 - Python
-- PHP  
-- Swift  
-- Backend systems and automation  
-- Unreal Engine
+- PHP (Partial)  
+- Swift (Learning)  
+- Unreal Engine (Partial)
 
 ## Links
 - Website: https://novadev.vip  
